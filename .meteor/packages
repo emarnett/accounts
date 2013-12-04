@@ -7,3 +7,10 @@ standard-app-packages
 autopublish
 insecure
 preserve-inputs
+bootstrap
+coffeescript
+spin
+iron-router
+accounts-ui-bootstrap-dropdown
+accounts-github
+roles
